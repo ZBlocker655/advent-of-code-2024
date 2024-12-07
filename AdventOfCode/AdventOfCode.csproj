@@ -8,10 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Inputs\" />
-    </ItemGroup>
-
-    <ItemGroup>
         <None Update="Inputs\*">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>
