@@ -1,5 +1,3 @@
-using System.Text.RegularExpressions;
-
 namespace AdventOfCode;
 
 public sealed class Day05: BaseDay
