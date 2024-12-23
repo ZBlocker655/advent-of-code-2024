@@ -21,4 +21,8 @@
       <PackageReference Include="AoCHelper" Version="4.0.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Inputs\" />
+    </ItemGroup>
+
 </Project>
